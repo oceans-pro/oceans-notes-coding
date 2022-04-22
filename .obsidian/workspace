@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "1f99c6656a80eb22",
+    "type": "split",
+    "children": [
+      {
+        "id": "11d903d016a7938b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "vue/vue3/起步.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d31f364b650997e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2b23d2889ae5b1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "033a2a14d0cf0aa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca1305ac2f8d9131",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209
+  },
+  "right": {
+    "id": "a7ae852300ed247d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a5b15b68d240360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "146a31d92456a426",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vue/vue3/起步.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "11d903d016a7938b",
+  "lastOpenFiles": [
+    "vue/vue3/起步.md"
+  ]
+}

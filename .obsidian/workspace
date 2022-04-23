@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nodejs/内部模块.md",
+            "file": "nodejs/安装.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/内部模块.md",
+                "file": "nodejs/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "11d903d016a7938b",
   "lastOpenFiles": [
+    "nodejs/安装.md",
     "nodejs/内部模块.md",
     "README.md",
     "vue/vue3/起步.md"

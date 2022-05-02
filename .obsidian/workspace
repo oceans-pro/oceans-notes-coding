@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "测试技术/未命名.md",
+            "file": "vue/vue3/起步.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试技术/未命名.md",
+                "file": "vue/vue3/起步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,11 @@
   },
   "active": "11d903d016a7938b",
   "lastOpenFiles": [
-    "测试技术/未命名.md",
-    "测试技术/img/charles.png",
-    "nodejs/内部模块.md",
+    "vue/vue3/起步.md",
+    "vue/vue3/ref和reactive.md",
     "README.md",
-    "vue/vue3/起步.md"
+    "nodejs/内部模块.md",
+    "测试技术/未命名.md",
+    "测试技术/img/charles.png"
   ]
 }
